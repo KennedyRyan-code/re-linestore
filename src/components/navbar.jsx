@@ -4,6 +4,7 @@ import { ShoppingCart } from "phosphor-react";
 import { RiContactsLine } from "react-icons/ri";
 import { CiShop } from "react-icons/ci";
 import { FiSearch } from "react-icons/fi";
+import { FaBookReader } from "react-icons/fa";
 import "./navbar.css";
 
 export const Navbar = () => {
@@ -15,6 +16,7 @@ export const Navbar = () => {
                 <Link to="/cart">
                     <ShoppingCart size={32} />
                 </Link>
+                <Link to="/blog"> <FaBookReader /> </Link>
                 <Link to="/contact"> <RiContactsLine /> </Link>
 
             </div>

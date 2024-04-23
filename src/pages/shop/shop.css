@@ -1,5 +1,5 @@
 .shopTitle {
-    margin-top: 100px;
+    margin-top: 50px;
     text-align: center;
     font-size: 40px;
   }
@@ -50,4 +50,13 @@
     background-color: rgb(19, 19, 19);
     color: white;
     cursor: pointer;
+  }
+
+  .storeimg {
+    width: 100%;
+    height: 100%;
+    padding-top: none;
+    padding-bottom: none;
+    border-radius: only 15px 15px 0 0;
+    object-fit: cover;
   }
