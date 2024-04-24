@@ -1,5 +1,6 @@
 import React from "react";
 import "./shop.css";
+import { Products } from "../../components/Products/Products";
 
 export const Shop = () => {
     return (
@@ -11,6 +12,7 @@ export const Shop = () => {
                 <h1>Shroomy Culture</h1>
             </div>
             <div className="products">
+                <Products /> <Products /> <Products />
                 
             </div>
         </div>
