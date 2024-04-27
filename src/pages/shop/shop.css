@@ -1,5 +1,22 @@
+.side-bar {
+  background-color: aqua;
+  width: 15%;
+  position: fixed;
+  border-right: 3px solid #e5e5e5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 3;
+
+}
+
+.storeimg-container {
+  display: flex;
+  grid-template-columns: max-content;
+  margin-left: 200px;
+}
+
 .shopTitle {
-    margin-top: 50px;
     text-align: center;
     font-size: 30px;
     color: wheat;
@@ -7,8 +24,9 @@
 
   .storeimg {
     width: 100%;
-    height: 500px;
+    height: 400px;
     object-fit: cover;
+    
   }
 
   .products {
