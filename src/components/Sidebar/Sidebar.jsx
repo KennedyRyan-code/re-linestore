@@ -8,16 +8,14 @@ import './Sidebar.css'
 export const Sidebar = () => {
   return (
     <div>
-        <section className="sidebar">
-            <div className="logo-container">
-                <h1><FaCartShopping /></h1>
-            </div>
-            <Category />
-
-            <Price />
-            
-            <Colors />
-        </section>
+      <section className="sidebar">
+          <div className="logo-container">
+              <h1><FaCartShopping /></h1>
+          </div>
+        <Category />
+        <Price />
+        <Colors />
+      </section>
     </div>
   )
 }
