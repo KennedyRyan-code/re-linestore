@@ -4,13 +4,14 @@ import './Recommended.css'
 export const Recommended = () => {
   return (
     <div>
-      <h2 className='recommended-title'>Recommended</h2>
+      <h2 className='recommended-title'>Trending</h2>
       <div className='recommended-btns'>
-        <button className='btns'> All Merchandise </button>
-        <button className='btns'> Art </button>
-        <button className='btns'> T-shirts </button>
-        <button className='btns'> Pillows </button>
-        <button className='btns'> Stickers </button>
+        <button className='btns'> All Trends  </button>
+        <button className='btns'> Wine </button>
+        <button className='btns'> Whisky </button>
+        <button className='btns'> Gin </button>
+        <button className='btns'> Vodka </button>
+        <button className='btns'> Beer </button>
       </div>
     </div>
   )
