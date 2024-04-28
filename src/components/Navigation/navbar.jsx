@@ -1,9 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { ShoppingCart } from "phosphor-react";
-import { RiContactsLine } from "react-icons/ri";
+import { MdAccountCircle } from "react-icons/md";
 import { CiShop } from "react-icons/ci";
-import { FaBookReader } from "react-icons/fa";
+import { FaHeartCircleCheck } from "react-icons/fa6";
 import "./navbar.css";
 
 
@@ -12,7 +12,7 @@ export const Navbar = () => {
     <>
         <div className="navbar">
             <div className="home-link">
-                <Link className="home-link" to="/"> <CiShop size={42}/>Shroomy Culture </Link>
+                <Link className="home-link" to="/"> <CiShop size={42}/>Liqueur Store </Link>
             </div>
             <div  className="search"><input type="text" className="search input" placeholder="Search"/> </div>
              
@@ -21,8 +21,8 @@ export const Navbar = () => {
                 <Link to="/cart">
                     <ShoppingCart size={32} />
                 </Link>
-                <Link to="/blog"> <FaBookReader /> </Link>
-                <Link to="/contact"> <RiContactsLine /> </Link>
+                <Link to="/wishlist"> <FaHeartCircleCheck /> </Link>
+                <Link to="/user"> <MdAccountCircle /> </Link>
 
             </div>
         </div>
