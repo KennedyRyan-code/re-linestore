@@ -8,9 +8,9 @@ export const Products = () => {
   <>
     <section className='card-container'>
         <section className='card'>
-            <img className='card-img' src='https://m.media-amazon.com/images/I/A1KHvCGeH6L._CLa|2140%2C2000|91RFFPmn1cL.png|0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png' alt='t-shirt'/>
+            <img className='card-img' src='https://crownwineandspirits.com/cdn/shop/products/captain-morgan-rum-captain-morgan-original-spiced-rum-1-75l-31515689517149.jpg?v=1664302892' alt='liqueur'/>
             <div className='card-content'>
-                <h3 className='card-title'>T-shirt</h3>
+                <h3 className='card-title'>Liqueur</h3>
                 <section className='card-reviews'>
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
@@ -30,9 +30,9 @@ export const Products = () => {
             </div>
         </section>
         <section className='card'>
-            <img className='card-img' src='https://m.media-amazon.com/images/I/A1KHvCGeH6L._CLa|2140%2C2000|91RFFPmn1cL.png|0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png' alt='t-shirt'/>
+            <img className='card-img' src='https://www.totalwine.com/dynamic/x1000,sq/media/sys_master/twmmedia/h1f/hba/14404599283742.png' alt='liqueur'/>
             <div className='card-content'>
-                <h3 className='card-title'>T-shirt</h3>
+                <h3 className='card-title'>Liqueur</h3>
                 <section className='card-reviews'>
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
@@ -52,9 +52,9 @@ export const Products = () => {
             </div>
         </section>
         <section className='card'>
-            <img className='card-img' src='https://m.media-amazon.com/images/I/A1KHvCGeH6L._CLa|2140%2C2000|91RFFPmn1cL.png|0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png' alt='t-shirt'/>
+            <img className='card-img' src='https://media.nicks.com.au/products/43ca6082/10000256_1.jpg' alt='liqueur'/>
             <div className='card-content'>
-                <h3 className='card-title'>T-shirt</h3>
+                <h3 className='card-title'>Liqueur</h3>
                 <section className='card-reviews'>
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
@@ -74,9 +74,9 @@ export const Products = () => {
             </div>
         </section>
         <section className='card'>
-            <img className='card-img' src='https://m.media-amazon.com/images/I/A1KHvCGeH6L._CLa|2140%2C2000|91RFFPmn1cL.png|0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png' alt='t-shirt'/>
+            <img className='card-img' src='https://media.nicks.com.au/products/ab25b8c6/110268529_1.jpg' alt='liqueur'/>
             <div className='card-content'>
-                <h3 className='card-title'>T-shirt</h3>
+                <h3 className='card-title'>Liqueur</h3>
                 <section className='card-reviews'>
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
@@ -96,9 +96,9 @@ export const Products = () => {
             </div>
         </section>
         <section className='card'>
-            <img className='card-img' src='https://m.media-amazon.com/images/I/A1KHvCGeH6L._CLa|2140%2C2000|91RFFPmn1cL.png|0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png' alt='t-shirt'/>
+            <img className='card-img' src='https://www.masterofmalt.com/blog/wp-content/uploads/images/Lark-Distillery/Lark-Cask-Strength-big.jpg' alt='liqueur'/>
             <div className='card-content'>
-                <h3 className='card-title'>T-shirt</h3>
+                <h3 className='card-title'>Liqueur</h3>
                 <section className='card-reviews'>
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
@@ -118,9 +118,9 @@ export const Products = () => {
             </div>
         </section>
         <section className='card'>
-            <img className='card-img' src='https://m.media-amazon.com/images/I/A1KHvCGeH6L._CLa|2140%2C2000|91RFFPmn1cL.png|0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png' alt='t-shirt'/>
+            <img className='card-img' src='https://web-whisky-live.s3-eu-west-1.amazonaws.com/s3fs-public/styles/uc_product_full/public/IMG_0008_195.JPG?itok=URbPKDJ6' alt='liqueur'/>
             <div className='card-content'>
-                <h3 className='card-title'>T-shirt</h3>
+                <h3 className='card-title'>Liqueur</h3>
                 <section className='card-reviews'>
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
@@ -140,9 +140,9 @@ export const Products = () => {
             </div>
         </section>
         <section className='card'>
-            <img className='card-img' src='https://m.media-amazon.com/images/I/A1KHvCGeH6L._CLa|2140%2C2000|91RFFPmn1cL.png|0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UL1500_.png' alt='t-shirt'/>
+            <img className='card-img' src='https://img.thewhiskyexchange.com/540/brbon_gar4.jpg' alt='liqueur'/>
             <div className='card-content'>
-                <h3 className='card-title'>T-shirt</h3>
+                <h3 className='card-title'>Liqueur</h3>
                 <section className='card-reviews'>
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
