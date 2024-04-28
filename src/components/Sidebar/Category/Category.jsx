@@ -14,15 +14,43 @@ export const Category = () => {
         </label>
         <label className='sidebar-lable-container'>
           <input type='radio' name='test' />
-          <span className='checkmark'>Art</span>
+          <span className='checkmark'>Wine</span>
         </label>
         <label className='sidebar-lable-container'>
           <input type='radio' name='test' />
-          <span className='checkmark'>T-shirts</span>
+          <span className='checkmark'>Gin</span>
         </label>
         <label className='sidebar-lable-container'>
           <input type='radio' name='test' />
-          <span className='checkmark'>Pillows</span>
+          <span className='checkmark'>Whisky</span>
+        </label>
+        <label className='sidebar-lable-container'>
+          <input type='radio' name='test' />
+          <span className='checkmark'>Vodka</span>
+        </label>
+        <label className='sidebar-lable-container'>
+          <input type='radio' name='test' />
+          <span className='checkmark'>Beer</span>
+        </label>
+        <label className='sidebar-lable-container'>
+          <input type='radio' name='test' />
+          <span className='checkmark'>Tequila</span>
+        </label>
+        <label className='sidebar-lable-container'>
+          <input type='radio' name='test' />
+          <span className='checkmark'>Rum</span>
+        </label>
+        <label className='sidebar-lable-container'>
+          <input type='radio' name='test' />
+          <span className='checkmark'>Liqueur</span>
+        </label>
+        <label className='sidebar-lable-container'>
+          <input type='radio' name='test' />
+          <span className='checkmark'>Cognac</span>
+        </label>
+        <label className='sidebar-lable-container'>
+          <input type='radio' name='test' />
+          <span className='checkmark'>Brandy</span>
         </label>
       </div>
     </div>
