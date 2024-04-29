@@ -8,7 +8,7 @@ export const Category = () => {
       <h2 className='sidebar-title'>Category</h2>
 
       <div>
-        <label className='sidebar-label-container'>
+      <label className='sidebar-lable-container'>
           <input type='radio' name='test' />
           <span className='checkmark'>All</span>
         </label>

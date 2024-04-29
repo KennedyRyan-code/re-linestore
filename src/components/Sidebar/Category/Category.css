@@ -1,19 +1,28 @@
 .sidebar-title {
-    font-size: 22px;
-    font-weight: normal;
-    margin-bottom: 20px;
-  }
+  font-size: 22px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
 
-  .sidebar-label-container {
-    display: flex;
-    position: relative;
-    cursor: pointer;
-    padding-left: 5px;
-    margin-bottom: 10px;
-  }
+.sidebar-label-container {
+  display: block;
+  position: relative;
+  cursor: pointer;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
 
-  .sidebar-label-container input {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
-  }
+.sidebar-label-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.all {
+  background: linear-gradient(blue, crimson);
+}
+
