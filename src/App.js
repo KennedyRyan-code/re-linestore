@@ -8,7 +8,7 @@ import { User } from './pages/user/user';
 
 function App() {
   return (
-    <div className="App">
+    <>
       <Router>
         <Navbar />
         <Routes>
@@ -18,7 +18,7 @@ function App() {
         <Route path='/user' element={<User />} />
         </Routes>
       </Router>   
-    </div>
+    </>
   );
 }
 
