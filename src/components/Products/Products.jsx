@@ -105,7 +105,6 @@ export const Products = () => {
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
                     <span className='total-reviews'>4</span>
-
                 </section>
             <section className='card-price'>
                 <div className='price'>
@@ -127,7 +126,6 @@ export const Products = () => {
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
                     <span className='total-reviews'>4</span>
-
                 </section>
             <section className='card-price'>
                 <div className='price'>
@@ -149,7 +147,6 @@ export const Products = () => {
                     <AiFillStar className='total-reviews'/>
                     <AiFillStar className='total-reviews'/>
                     <span className='total-reviews'>4</span>
-
                 </section>
             <section className='card-price'>
                 <div className='price'>
