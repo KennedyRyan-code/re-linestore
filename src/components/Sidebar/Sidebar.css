@@ -1,0 +1,24 @@
+.sidebar-container {
+    background-color: aquamarine;
+
+}
+
+.sidebar {
+    width: 15%;
+    position: fixed;
+    height: 100%;
+    border-right: 2px solid #f1f1f1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 3;
+}
+
+.logo-container {
+    margin-bottom: 4rem;
+}
+
+.logo-container h1 {
+    margin-top: 1.3rem;
+
+}

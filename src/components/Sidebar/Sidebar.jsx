@@ -7,7 +7,7 @@ import './Sidebar.css'
 
 export const Sidebar = () => {
   return (
-    <div>
+    <div className='sidebar-container'>
       <section className="sidebar">
           <div className="logo-container">
               <h1><FaCartShopping /></h1>
