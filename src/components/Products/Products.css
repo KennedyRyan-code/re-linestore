@@ -15,12 +15,12 @@
 }
 
 .card-img {
-    width: 13rem;
-    margin-bottom: -1rem;
+    width: 10rem;
+    margin-bottom: 1rem;
 }
 
 .card-title {
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .card-reviews {
@@ -31,6 +31,7 @@
 
 .total-reviews {
     color: #d5ab55;
+    font-size: 0.9rem;
 }
 
 .card-price {
