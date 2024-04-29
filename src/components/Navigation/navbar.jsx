@@ -11,10 +11,12 @@ export const Navbar = () => {
     return (
     <>
         <div className="navbar">
-            <div className="home-link">
-                <Link className="home-link" to="/"> <CiShop size={42}/>Liqueur Store </Link>
+            <div className="home-icon">
+            <Link className="home-link" to="/"> <CiShop size={42}/>Liqueur Store </Link>
             </div>
-            <div  className="search"><input type="text" className="search input" placeholder="Search"/> </div>
+            <div  className="search">
+                <input type="text" className="search input" placeholder="Search"/>
+            </div>
              
             <div className="links">
                 
