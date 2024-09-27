@@ -1,11 +1,21 @@
-.App {
-  width: 100%;
-  height: auto;
-  min-height: 100vh;
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  font-family: sans-serif;
 }
 
-body {
-  padding: 0;
-  margin: 0;
+li {
+  list-style: none;
+}
+
+.btns {
+  padding: 10px 20px;
+  margin-right: 6px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  border: 0.5px solid #d5ab55;
+  border-radius: 5px;
+  color: #323232;
 }

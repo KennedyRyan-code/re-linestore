@@ -1,0 +1,68 @@
+.navbar {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+
+.home-icon {
+    margin-right: 100px;
+    color: azure;
+    font-size: 25px;
+    justify-content: space-between;
+}
+
+.home-link {
+    display: flex;
+    color: azure;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.search {
+    margin-right: 150px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.search input {
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+
+.links {
+    display: flex;
+    margin-right: 50px;
+    
+}
+
+.links a {
+    text-decoration: none;
+    color: azure;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.links a:hover {
+    color: aquamarine;
+}
+
+.home-link:hover {
+    color: aquamarine;
+}
+
+.home-link a {
+    text-decoration: none;
+    color: azure;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
